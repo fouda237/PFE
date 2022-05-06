@@ -1,0 +1,5 @@
+---
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=dfgthyiufyjdhgtfdwgtshy;AccountKey=xxNdSRNLcFCcfmyj/HrXjiBIbzZBSAweAAVeZLM5C4mHnOpltiQjwCJ8H4oHuf12Zak+AL/3FAFp+AStwkNfSQ==;EndpointSuffix=core.windows.net"
+videos_container_name: "fouda"
+pictyres_container_name: "pdfgthyiufyjdhgtfdwgtshy"
+source_folder: "C:/Users/fouda/OneDrive/Bureau/FOUDA/blob-quickstart-v12/"

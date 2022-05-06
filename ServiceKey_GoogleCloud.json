@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "festive-icon-278313",
+  "private_key_id": "234c2ead662bb411e376b8817f2557a326992db7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb5YNMTqbCgYRm\nGQfQIJA6brgbFaNtm5Hmy6sEtuuOXsbJ/mqsPDaKYzoY4e5u6i8LERehPci7CWQp\nDI9YdskKmJOi7jawizwakKJPHE/+r+1x06NPSiSlroZkSYc9UZPt25+qFQpamRMo\nEgLxQkKE82Bg3QhHaEDOK4i+JqMV0pLTkTX0mSRmdqS4AdOnAOJv3pHhM2pfRO7/\ncsn7iSVfvSe2oLN9fBarGECktAZwz7S9CO5wVD/zeW8LTTcPg6NW12PudL2sbT6w\n/zYQ7ojaW89Fpf8uJZyVUYmoasVWBhERDEJEMmYXZ+KAdMvSvHPumeOBOj4t29ro\ndoyTzlTfAgMBAAECggEAN4SNtKAR3RTYvK9PS/w8wMJrSCH1mHQdim6fkcc+re3s\np0S2Ym3zEmdx6iiTi+ZUKIHGw4JIOOuIQuIZLmzm/aIGebCRw19iYSd+1eOETXQD\ngFTZRMRntqUncRGKWvjxUHS1MJHbpRX8b3mymI57N/OgL/6nEx76bTGtueHylDNh\n4F3L7b7o8IMtox3gyJ4SY94dTOQ1fe0y21u9LZm9TRVGVFEyP3p2eoO70n0XPKxO\njN4JpjuQdiSW90Qe76NmTolO07MmL0GfyZblsRZJYnLqQhawj81D1hzjkcLltBOF\nmwGJzYq+KEjE1MP7paTdhpZ/lF+cqRFMIRMppZgdUQKBgQDSioFk4YgUTKO+WJkt\nJMydsGtmRxyp60gER28NtBWppUf1Zad6jRfWo8ubWI/sBZlvGCO8rFmxCHtJj9Yg\nWJ88+YYftjU+kjSvQXziSwwSiSy3xcJejl2lgas9c9GMWiNfeJUdEPPux8GC3q6F\n4QKpB/KEkxKb08sEWWoF5+GFRwKBgQC9jpMOAtAN8kToWAVqxztxKTokUY7M+lkG\nInW9KfIvQY3DFic67Y3KD0hGxCPopSdtybM0PdQSfdHw6+p/9l1f/gwHFGnQtKFd\nyeJbDnF3vvePZisBSVaS8yFWed9Dl0yqnRe4Gpz3G6A4BJJ8MyjngKetFYqjTHQ5\nVBPg0MhfqQKBgQDHqP3Ic3Ce/4cRDehFPW6l5BYVqj5ujWeAV1XjgvJALTOubjaD\nK6Z9sFt3+GaUB0NYbWYGmNN95XM1cag4iJKKOn+NNzgLHI/F267Y0x6hvWCg7nPD\nQ/Ne7zc7UchY92owMaQHKnqJ6PmEaDTNVXM2ZQkB3I97I0CV4U2ASERAJQKBgAvi\nfYvaV0sYjoN2yVgph6uPpyqRxn9Jjv1YecNTdvDJjmbV473JGSO7E5AESjAS8sbq\nZ4b1/W7vXpNZZ0mAm9gh6IUlHYFNYfSsbLnCzRBx87mU8UtSWtA52DRAzePB/7eO\nw+byHDdODxyUBM8usfjZ0ymB+UBF0d+qStjEnluJAoGBAKcP7bvaNDpipRcFmAH/\nhUJR3KDKmHaXq1rS3dXARZqS06IAWHyHJOvNVixEQqPSo/iGbgkMyzyFbyfeidSs\n4ArN6bcsm2RTmakJpRpbxvhJAMMO9l9g2S4061AioU0DYz+tMKWWkqbWd4B3bcDo\n7UzINBAmYTrYiIAW6IPflSw9\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-storage-team@festive-icon-278313.iam.gserviceaccount.com",
+  "client_id": "111697576464307627170",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-storage-team%40festive-icon-278313.iam.gserviceaccount.com"
+}

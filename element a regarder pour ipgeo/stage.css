@@ -1,0 +1,61 @@
+.post{
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+input{
+    padding: 1em;
+    border: 1px solid black;
+    border-radius: 1em;
+}
+div{
+    padding: 10px;
+
+}
+.lo{
+    margin-left: 900px;
+    
+}
+.jom{
+    margin-left: 600px;
+
+}
+.fom {
+    /* Center the form on the page */
+    margin: 0;
+    /* width: 700px; */
+    /* Form outline */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+  #localFile{
+    font: 1em sans-serif;
+    padding: 10px;
+    
+    margin: 10px;
+    width: 300px;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+  #remoteFile{
+    /* To make sure that all text fields have the same font settings
+       By default, textareas have a monospace font */
+    font: 1em sans-serif;
+    padding: 10px;
+    margin-left: 600px;
+    margin: 10px;
+    /* Uniform text field size */
+    width: 300px;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  } 
+  .lo{
+    
+    right: 100px;
+    margin-left: 900px;
+ }
+ /* button{
+    right: 100px;
+    margin-left: 500px;
+ } */
